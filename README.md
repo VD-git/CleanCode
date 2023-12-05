@@ -51,7 +51,12 @@ Overview of the files and data present in the root directory.
     - logs: calling this command generates a log file in the folder logs called "churn_library.log" that contains the results and logging of the test before.
 
 ## Evaluation of the Models
+By the metrics reported in the results folder (inside images) it is possible to track both models.
+- Logistic regression
 
+![image](https://github.com/VD-git/CleanCode/assets/85261454/bfd12631-77bb-4cff-84a9-60ded437d90a)
+- Random forest classifier
+https://github.com/VD-git/CleanCode/blob/main/images/results/rf_results.png?raw=true
 
 
 
