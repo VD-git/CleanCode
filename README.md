@@ -59,6 +59,13 @@ By the metrics reported in the results folder (inside images) it is possible to 
 
 ![image](https://github.com/VD-git/CleanCode/assets/85261454/3f99c863-2ee7-4b44-af1c-811b446b38cc)
 
+Besides that it is also possible to evalute the roc curve and feature importance (taking into consideration random forest classifier)
+- Roc curve
+
+
+
+- Feature importance
+
 
 
 
