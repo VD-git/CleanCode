@@ -2,18 +2,18 @@ root - INFO - [import_data] SUCCESS: File path ./data/bank_data.csv found
 root - INFO - [perform_eda] SUCCESS: Shape of the file imported: (10127, 22)
 root - INFO - [perform_eda] SUCCESS: No missing found
 root - INFO - [perform_eda] SUCCESS: Summary of the data:
-         Unnamed: 0     CLIENTNUM      ...       Avg_Utilization_Ratio         Churn
-count  10127.000000  1.012700e+04      ...                10127.000000  10127.000000
-mean    5063.000000  7.391776e+08      ...                    0.274894      0.160660
-std     2923.557422  3.690378e+07      ...                    0.275691      0.367235
-min        0.000000  7.080821e+08      ...                    0.000000      0.000000
-25%     2531.500000  7.130368e+08      ...                    0.023000      0.000000
-50%     5063.000000  7.179264e+08      ...                    0.176000      0.000000
-75%     7594.500000  7.731435e+08      ...                    0.503000      0.000000
-max    10126.000000  8.283431e+08      ...                    0.999000      1.000000
+         Unnamed: 0      ...              Churn
+count  10127.000000      ...       10127.000000
+mean    5063.000000      ...           0.160660
+std     2923.557422      ...           0.367235
+min        0.000000      ...           0.000000
+25%     2531.500000      ...           0.000000
+50%     5063.000000      ...           0.000000
+75%     7594.500000      ...           0.000000
+max    10126.000000      ...           1.000000
 
 [8 rows x 17 columns]
-root - INFO - [perform_eda] SUCCESS: All plots have been saved in folder './images/eda'
+root - INFO - [perform_eda] SUCCESS: All plots have been saved
 root - INFO - [encoder_helper] SUCCESS: All 5 cols have been encoded
-root - INFO - [perform_feature_engineering] SUCCESS: Train/test split finished. Train size: 7088 rows and Test size: 3039 rows
-root - INFO - [training_models] SUCCESS: Models were trained in the proper way
+root - INFO - [feature_engineering] SUCCESS: Train size: 7088 rows and Test size: 3039 rows
+root - INFO - [training_models] SUCCESS: Models trained in the proper way
