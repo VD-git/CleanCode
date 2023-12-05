@@ -66,7 +66,4 @@ Besides that it is also possible to evalute the roc curve and feature importance
 
 - Feature importance
 
-
-
-
-
+![image](https://github.com/VD-git/CleanCode/assets/85261454/019f112b-d5e6-408c-ac9c-47bd5f8ca41d)
