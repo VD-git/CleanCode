@@ -56,7 +56,9 @@ By the metrics reported in the results folder (inside images) it is possible to 
 
 ![image](https://github.com/VD-git/CleanCode/assets/85261454/bfd12631-77bb-4cff-84a9-60ded437d90a)
 - Random forest classifier
-https://github.com/VD-git/CleanCode/blob/main/images/results/rf_results.png?raw=true
+
+![image](https://github.com/VD-git/CleanCode/assets/85261454/3f99c863-2ee7-4b44-af1c-811b446b38cc)
+
 
 
 
