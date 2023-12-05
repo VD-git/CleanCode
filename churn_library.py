@@ -3,6 +3,9 @@
 File that train both models (logistic regression and random forest classifier),
 saving them in the end;
 Further than that, it generates evaluation metrics and plots for the models and EDA.
+
+Author: Victor Dias
+Creation Date: 05/12/2023
 """
 
 # import libraries

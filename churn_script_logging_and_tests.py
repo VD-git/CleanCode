@@ -1,5 +1,8 @@
 """
 File that does the testing and logging for the file "churn_library.py"
+
+Author: Victor Dias
+Creation Date: 05/12/2023
 """
 
 import os
