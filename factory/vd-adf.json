@@ -1,9 +1,0 @@
-{
-	"name": "vd-adf",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "2aa8d8e1-bd60-4a56-bf57-75590ecc61b4",
-		"tenantId": "bca068dc-3d35-43e2-bff9-667e87d1ac02"
-	}
-}
